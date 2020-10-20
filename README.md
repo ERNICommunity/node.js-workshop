@@ -1,7 +1,7 @@
 node.js-workshop
 ================
 
-:warning: **REPOSITORY NOT ACTIVE SINCE 2014**
+:warning: **REPOSITORY NOT ACTIVE SINCE 2014 Dependabot alerts disabled**
 
 The node.js-workshop repository contains material for a basic introduction to node.js. There are some slides briefly introducing the key concept of node.js together with basic exercises and its solutions
 
